@@ -1,4 +1,4 @@
-# Личный проект «{{projectTitle}}»
+# Личный проект «Sedona-learn»
 
 * Студент: [{{userName}}]({{userProfile}}).
 * Наставник: `Неизвестно`.
